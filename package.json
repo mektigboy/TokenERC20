@@ -610,6 +610,7 @@
     "tough-cookie": "^4.0.0",
     "tr46": "^0.0.3",
     "truffle": "^5.5.15",
+    "truffle-init": "^1.0.7",
     "tslib": "^2.4.0",
     "tunnel-agent": "^0.6.0",
     "tweetnacl": "^1.0.3",
