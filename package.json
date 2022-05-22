@@ -1,7 +1,6 @@
 {
   "name": "tokenerc20",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "dependencies": {
     "abbrev": "^1.1.1",
@@ -713,5 +712,6 @@
   "bugs": {
     "url": "https://github.com/mektigboy/TokenERC20/issues"
   },
-  "homepage": "https://github.com/mektigboy/TokenERC20#readme"
+  "homepage": "https://github.com/mektigboy/TokenERC20#readme",
+  "description": ""
 }
